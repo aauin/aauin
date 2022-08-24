@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Erwin
 - 👀 I like solving computational problems and studying human behavior
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science at Oregon State
 - 💞️ I’m looking for a Software Developer internship
 - 📫 Check me out: https://www.linkedin.com/in/erlaird/
 
